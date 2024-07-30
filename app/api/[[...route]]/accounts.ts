@@ -79,7 +79,7 @@ const app = new Hono()
     async (c) => {
       const auth = getAuth(c);
       const values = c.req.valid("json");
-      console.log(values)
+   //   console.log(values)
       if (!auth?.userId) {
         return c.json({ error: "Unauthorized" }, 401);
       }
