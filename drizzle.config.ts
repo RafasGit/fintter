@@ -1,4 +1,3 @@
-import { env } from "./env/server";
 import { defineConfig } from "drizzle-kit";
 import { config } from "dotenv";
 
