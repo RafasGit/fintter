@@ -6,7 +6,7 @@ import { and, eq, inArray } from "drizzle-orm";
 import { createId } from "@paralleldrive/cuid2";
 
 
-import { db } from "@/db/drizzle";
+import { db } from "@/db";
 import { accounts, insertAccountSchema } from "@/db/schema";
 //insertAccountSchema
 

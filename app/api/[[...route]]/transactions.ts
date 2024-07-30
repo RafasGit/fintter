@@ -7,7 +7,7 @@ import { and, eq, gte, inArray, desc, sql, lte } from "drizzle-orm";
 import { createId } from "@paralleldrive/cuid2";
 
 
-import { db } from "@/db/drizzle";
+import { db } from "@/db";
 import {
   accounts,
   categories,

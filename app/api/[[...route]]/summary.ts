@@ -5,7 +5,7 @@ import { clerkMiddleware, getAuth } from "@hono/clerk-auth";
 import { zValidator } from "@hono/zod-validator";
 import { differenceInDays, parse, subDays } from "date-fns";
 
-import { db } from "@/db/drizzle";
+import { db } from "@/db";
 import { accounts, categories, transactions } from "@/db/schema";
 
 import { calculatePercentageChange, fillMissingDays } from "@/lib/utils";

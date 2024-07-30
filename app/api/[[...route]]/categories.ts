@@ -6,7 +6,7 @@ import { zValidator } from "@hono/zod-validator";
 import { clerkMiddleware, getAuth } from "@hono/clerk-auth";
 
 
-import { db } from "@/db/drizzle";
+import { db } from "@/db";
 import { categories, insertCategorySchema } from "@/db/schema";
 
 
