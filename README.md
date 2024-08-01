@@ -7,13 +7,13 @@
    - [Getting started](#Getting-Started)
    - [Contributing](#Contributing)
    - [License](#License)
-   - [Contributors](#Contact)
+   - [Contributors](#Contributors)
 
 
  ## Features
 
 
- A  financial management platform providing insight into your expenditure and income transactions;
+ A financial management platform providing insight into your expenditure and income transactions;
 
 
 - 📈 Interactive Financial Dashboard: Visualize and manage finances in realtime
@@ -57,7 +57,7 @@ We welcome contributions from the community to enhance DecisionHub. Feel free to
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
-## Contact
+## Contributors
 
 For any questions or inquiries, please reach out to the development team at [fintter](mailto:joshraphael424@gmail.com)
   
