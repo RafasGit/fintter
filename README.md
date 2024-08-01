@@ -13,7 +13,7 @@
  ## Features
 
 
- A financial management platform providing insight into your expenditure and income transactions;
+ A  financial management platform providing insight into your expenditure and income transactions;
 
 
 - 📈 Interactive Financial Dashboard: Visualize and manage finances in realtime
@@ -25,7 +25,7 @@
 
  ## Stack and Technologies Used
    - Front-End: NextJs, Zustand, 🎨 TailwindCSS and Shadcn UI.
-   - Back-End: TypeScript, 🔥Hono.js. 
+   - Back-End:  BunJs, TypeScript, 🔥Hono.js. 
    - Database: 💾 PostgreSQL, Drizzle ORM and Neon db
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -61,7 +61,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 For any questions or inquiries, please reach out to the development team at [fintter](mailto:joshraphael424@gmail.com)
   
-   - GitHub: [@githubhandle](https://github.com/RafasGit)
+   - GitHub: [@github](https://github.com/RafasGit)
    - Twitter: [@twitter](https://x.com/rafa_codes22)
    - LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-ng-ang-a-13158120a)
  
