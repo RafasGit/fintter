@@ -21,7 +21,7 @@
     - 🔥 Serverless functions and APIs via Hono.js: Type checked, authenticated and efficient APIs. 
     - 🪝 State Management via Tanstack React Query: Efficient state management for a smooth experience.
 
-- Interactive Financal Dashboard: Visualize and manage finances in realtime
+- 📈 Interactive Financial Dashboard: Visualize and manage finances in realtime
 - 📊 Financial Analytcs: Custom data views with various chart options mapping expenditure and income trends and paterns as well as transaction filters by account or date [About The Project](#about-the-app)
 - ➕ Account, categories and transaction creation forms for easily adding and deleting transactions. [Screenshots](#screenshots)
 - 🔐 Authentication provided by Clerk (Core 2): Secure data access.[Technologies](#technologies)
