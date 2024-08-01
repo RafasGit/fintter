@@ -2,7 +2,7 @@
 
 ## Table Of Content
 
-   - [Features]
+   - [Features](#about-the-app)
    - [Technologies]
    - [Getting started]   
    - [Contributing]
