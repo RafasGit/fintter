@@ -4,7 +4,7 @@
 
    - [Features](#Features)
    - [Technologies](#Stack-and-Technologies-Used)
-   - [Getting started](#Getting Started)
+   - [Getting started](#Getting-Started)
    - [Contributing](#Contributing)
    - [License](#License)
    - [Contributors](#Contact)
