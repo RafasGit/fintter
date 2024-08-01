@@ -3,11 +3,11 @@
 ## Table Of Content
 
    - [Features]
-   -[Technologies]
-   -[Getting started]   
-   -[Contributing]
-   -[License]
-   -[Contributors]
+   - [Technologies]
+   - [Getting started]   
+   - [Contributing]
+   - [License]
+   - [Contributors]
 
 
  ## Features
