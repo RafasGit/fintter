@@ -44,7 +44,7 @@ pnpm dev
 npm dev
 ```
 
-For sample financial data, reach out to [Contributors](#Contributors) for admin access. Run the development server and  and in your terminal execute the [seed.ts](https://github.com/RafasGit/fintter/blob/main/script/seed.ts) script;
+For sample financial data, reach out to [Contributors](#Contributors) for admin access. Run the development server and in your terminal execute the [seed.ts](https://github.com/RafasGit/fintter/blob/main/script/seed.ts) script;
 
 ```bash
 bun run db:seed
