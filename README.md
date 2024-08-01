@@ -45,6 +45,8 @@ pnpm dev
 npm dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 For sample financial data, reach out to [Contributors](#Contributors) for admin access. Run the development server and in your terminal execute the [seed.ts](https://github.com/RafasGit/fintter/blob/main/script/seed.ts) script;
 
 ```bash
@@ -57,7 +59,7 @@ pnpm run db:seed
 npm run db:seed
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
