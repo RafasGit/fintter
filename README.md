@@ -35,13 +35,25 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+bun run dev
 # or
 yarn dev
 # or
 pnpm dev
 # or
-bun dev
+npm dev
+```
+
+For sample financial data, reach out to [Contributors](#Contributors) for admin access. Run the development server and  and in your terminal execute the [seed.ts](https://github.com/RafasGit/fintter/blob/main/script/seed.ts) script;
+
+```bash
+bun run db:seed
+# or
+yarn run db:seed
+# or
+pnpm run db:seed
+# or
+npm run db:seed
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
