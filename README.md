@@ -2,8 +2,8 @@
 
 ## Table Of Content
 
-   - [Features](#about-the-app)
-   - [Technologies](#Stack and Technologies Used)
+   - [Features](#Features)
+   - [Technologies](#Stack-and-Technologies-Used)
    - [Getting started](#Getting Started)
    - [Contributing](#Contributing)
    - [License](#License)
