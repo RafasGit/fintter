@@ -3,11 +3,11 @@
 ## Table Of Content
 
    - [Features](#about-the-app)
-   - [Technologies]
-   - [Getting started]   
-   - [Contributing]
-   - [License]
-   - [Contributors]
+   - [Technologies](#Stack and Technologies Used)
+   - [Getting started](#Getting Started)
+   - [Contributing](#Contributing)
+   - [License](#License)
+   - [Contributors](#Contact)
 
 
  ## Features
