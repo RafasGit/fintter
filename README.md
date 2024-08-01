@@ -10,6 +10,12 @@
    -[Contributors]
 
 
+ ## Features
+ A financial management platform providing insight into your expenditure and income transactions;
+    - Interactive Financal Dashboard: Visualize and manage finances in realtime
+    - Financial Analytcs: Custom data views with various chart options mapping expenditure and income trends and paterns as well as transaction filters by account or date 
+    - Account, categories and transaction creation
+    - Authentication provided by Clerk (Core 2): Secure data access
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
