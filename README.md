@@ -2,7 +2,7 @@
 
 ## Table Of Content
 
-   -[Features]
+   - [Features]
    -[Technologies]
    -[Getting started]   
    -[Contributing]
