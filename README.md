@@ -11,6 +11,8 @@
 
 
  ## Features
+
+
  A financial management platform providing insight into your expenditure and income transactions;
     - 🖼️ Interactive Financal Dashboard: Visualize and manage finances in realtime.
     - 📊 Financial Analytcs: Custom data views with various chart options mapping expenditure and income trends and paterns as well as transaction filters by account or date. 
@@ -18,6 +20,11 @@
     - 🔐 Authentication provided by Clerk (Core 2): Secure data access.
     - 🔥 Serverless functions and APIs via Hono.js: Type checked, authenticated and efficient APIs. 
     - 🪝 State Management via Tanstack React Query: Efficient state management for a smooth experience.
+
+ ## Stack and Technologies Used
+   - Front-End: NextJs, Zustand, 🎨 TailwindCSS and Shadcn UI.
+   - Back-End: TypeScript, 🔥Hono.js. 
+   - Database: 💾 PostgreSQL, Drizzle ORM and Neon db
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -36,8 +43,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
