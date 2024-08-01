@@ -21,7 +21,7 @@
     - 🔥 Serverless functions and APIs via Hono.js: Type checked, authenticated and efficient APIs. 
     - 🪝 State Management via Tanstack React Query: Efficient state management for a smooth experience.
 
-- [About The Project](#about-the-app)
+- 📊 Financial Analytcs: Custom data views with various chart options mapping expenditure and income trends and paterns as well as transaction filters by account or date [About The Project](#about-the-app)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
