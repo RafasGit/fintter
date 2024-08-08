@@ -1,4 +1,4 @@
-i# [fintter](https://fintter.vercel.app/)
+# [fintter](https://fintter.vercel.app/)
 
 ## Table Of Content
 
