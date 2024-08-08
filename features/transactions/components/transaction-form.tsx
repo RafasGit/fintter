@@ -95,7 +95,7 @@ export const TransactionForm = ({
     <Form {...form}>
       <form
         onSubmit={form.handleSubmit(handleSubmit)}
-        className="space-y-4  pt-14 "
+        className="space-y-4  pt-14 overflow-scroll "
       >
         <FormField
           name="date"
